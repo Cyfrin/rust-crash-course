@@ -106,6 +106,7 @@ Please refer to this for an in-depth explanation of the content:
 - [rustlings](https://github.com/rust-lang/rustlings/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust playground](https://play.rust-lang.org/)
+- [Rust Cheatsheet](https://cheats.rs/)
 
 # Notes
 
