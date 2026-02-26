@@ -3,7 +3,7 @@
 
 fn main() {
     // Exercise 1: Make this variable mutable
-    let count = 1;
+    let mut count = 1;
     count += 1;
 
     println!("count: {count}");
